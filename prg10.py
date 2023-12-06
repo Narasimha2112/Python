@@ -1,3 +1,5 @@
+"""write a program to print all evennumbers from 50 to 100???(using for && while loop)"""
+
 """for loop
 for i in range(50,101,2):
     print (i)
