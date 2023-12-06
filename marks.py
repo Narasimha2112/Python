@@ -1,3 +1,5 @@
+"""write a program to check whether the student is failed or passed???"""
+
 x=eval(input("enter the marks "))
 
 if(x>35):
